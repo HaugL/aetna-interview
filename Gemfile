@@ -59,3 +59,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Added at 2019-08-08 13:13:02 -0600 by liannehaug:
 gem "pagy", "~> 3.4"
+
+# Added at 2019-08-11 18:02:23 -0700 by liannehaug:
+gem "sqlite3", "~> 1.4"
